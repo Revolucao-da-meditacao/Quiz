@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     $questionsContainer.innerHTML = 
   `
     <h2 class="final-message">
-    Grupo de pesquisados da área da saúde descobrem técnicas simples e eficazes, você pode alcançar uma mente mais tranquila, equilibrada e resiliente.</h2>
+    Grupo de pesquisadores da área da saúde descobre técnicas simples e eficazes para alcançar uma mente mais tranquila, equilibrada e resiliente.</h2>
 
     <div class="img"></div>
     <p class="sub-final">Quer saber mais sobre como começar essa transformação?</p>
@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     { question: '7) Como você se sentiria se pudesse reduzir significativamente seu nível de estresse?', sub:"Precisamos dessas informações para oferecer um suporte adequado.", answers: [
         { text: 'Aliviado e mais feliz', correct: false },
         { text: 'Com mais energia e motivação', correct: false },
-        { text: 'Me sintiria renovado', correct: false },
+        { text: 'Me sentiria renovado', correct: false },
         { text: 'Indiferente', correct: true }
       ]},
       { question: '8) O que você mais gostaria de melhorar na sua vida?', sub:"Ajude-nos a entender melhor suas necessidades.", answers: [
