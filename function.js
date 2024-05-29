@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         { text: '30 minutos - uma hora', correct: false },
         { text: 'Mais de uma hora', correct: true }
       ]},
-      { question: '11) O que você faria se fosse menos ansioso?', sub:"Queremos entender suas prioridades para fornecer a melhor ajuda.", answers: [
+      { question: 'Última Pergunta) O que você faria se fosse menos ansioso?', sub:"Queremos entender suas prioridades para fornecer a melhor ajuda.", answers: [
         { text: 'Aproveitaria mais o momento presente, sem preocupações excessivas com o futuro.', correct: false },
         { text: 'Teria mais energia e disposição para realizar minhas atividades diárias.', correct: false },
         { text: 'Seria mais capaz de lidar com situações estressantes de forma calma e equilibrada.', correct: false },
